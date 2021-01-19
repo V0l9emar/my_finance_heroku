@@ -1,0 +1,26 @@
+{
+  "files": {
+    "main.css": "/static/css/main.4229a0b3.chunk.css",
+    "main.js": "/static/js/main.93133a45.chunk.js",
+    "main.js.map": "/static/js/main.93133a45.chunk.js.map",
+    "runtime-main.js": "/static/js/runtime-main.b1622558.js",
+    "runtime-main.js.map": "/static/js/runtime-main.b1622558.js.map",
+    "static/css/2.20aa2d7b.chunk.css": "/static/css/2.20aa2d7b.chunk.css",
+    "static/js/2.09f2e82b.chunk.js": "/static/js/2.09f2e82b.chunk.js",
+    "static/js/2.09f2e82b.chunk.js.map": "/static/js/2.09f2e82b.chunk.js.map",
+    "static/js/3.104888db.chunk.js": "/static/js/3.104888db.chunk.js",
+    "static/js/3.104888db.chunk.js.map": "/static/js/3.104888db.chunk.js.map",
+    "index.html": "/index.html",
+    "static/css/2.20aa2d7b.chunk.css.map": "/static/css/2.20aa2d7b.chunk.css.map",
+    "static/css/main.4229a0b3.chunk.css.map": "/static/css/main.4229a0b3.chunk.css.map",
+    "static/js/2.09f2e82b.chunk.js.LICENSE.txt": "/static/js/2.09f2e82b.chunk.js.LICENSE.txt",
+    "static/media/finance.41748d64.svg": "/static/media/finance.41748d64.svg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.b1622558.js",
+    "static/css/2.20aa2d7b.chunk.css",
+    "static/js/2.09f2e82b.chunk.js",
+    "static/css/main.4229a0b3.chunk.css",
+    "static/js/main.93133a45.chunk.js"
+  ]
+}
